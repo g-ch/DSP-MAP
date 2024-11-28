@@ -15,7 +15,7 @@ A ROS __node example__ `map_sim_example.cpp` can be found in the `src` folder. I
 # Progress
 __New Progress!__ 2024.9.22 We have released the code of [Semantic DSP Map](https://github.com/tud-amr/semantic_dsp_map), which is an upgraded version of the DSP map. Compared to DSP map, Semantic DSP map contains instance-aware semantic information and has less noise. Please check [here](https://github.com/tud-amr/semantic_dsp_map) for details.
 
-A UAV simulation tool (third party) made by RicardoLEE123 using the DSP map is [here](https://github.com/SmartGroupSystems/Dsp-map-simulator).
+A simulation tool (third party) made by RicardoLEE123 using the DSP map is [here](https://github.com/SmartGroupSystems/Dsp-map-simulator).
 
 # Compile
 __Tested environment__: Ubuntu 18.04 + ROS Melodic and Ubuntu 20.04 + ROS Noetic
